@@ -13,6 +13,7 @@ using namespace std;
 
 int main(){
     int me;
+    char a;
     int a[]={1,1,34,77,90,11,2,4,5,55};
     sort(a+1,a+10);
     for(int i=0;i<10;i++)
