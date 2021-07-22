@@ -10,7 +10,7 @@
 #include <sstream>
 #include <utility>
 
-namespace zjl
+namespace Maplex
 {
 
 class PlainFormatItem : public LogFormatter::FormatItem
